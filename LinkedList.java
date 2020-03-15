@@ -10,7 +10,7 @@ public class LinkedList{
         }
     }
         
-        public static Main insert(LinkedList list,int data){
+        public static LinkedList insert(LinkedList list,int data){
             Node newnode=new Node(data);
             newnode.next=null;
             
