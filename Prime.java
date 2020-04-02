@@ -13,12 +13,11 @@ class Prime
 	   if(j%i==0)
 	   {
 	        count++;  
-	        i++;
 	   }
 	   
 	}
 	if(count==2)
-	       System.out.print(j+"  ");     
+	       System.out.print(j+"\n");     
 	}
 	}
 }
