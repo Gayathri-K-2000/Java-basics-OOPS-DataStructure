@@ -21,3 +21,27 @@ class Prime
 	}
 	}
 }
+
+
+
+Output:
+
+Prime numbers between 20 to 100 are                                                                                     
+23                                                                                                                      
+29                                                                                                                      
+31                                                                                                                      
+37                                                                                                                      
+41                                                                                                                      
+43                                                                                                                      
+47                                                                                                                      
+53                                                                                                                      
+59                                                                                                                      
+61                                                                                                                      
+67                                                                                                                      
+71                                                                                                                      
+73                                                                                                                      
+79                                                                                                                      
+83                                                                                                                      
+89                                                                                                                      
+97
+
